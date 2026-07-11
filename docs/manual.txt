@@ -1,0 +1,3 @@
+ABC Technologies - Technical Manual
+Issue: Application crashes on file upload.
+Resolution: Ensure the file size is under 50MB and format is PDF, PNG, or JPG. Clear your browser cache and restart the application. If the error code is 500, contact technical escalation.

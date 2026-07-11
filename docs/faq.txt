@@ -1,0 +1,6 @@
+ABC Technologies - FAQ Document
+Q: How do I reset my password?
+A: Go to the login page, click "Forgot Password", and follow the email instructions.
+
+Q: How do I update my profile?
+A: Log in, navigate to Settings > Account Profile, and edit your details.

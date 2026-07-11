@@ -1,0 +1,4 @@
+ABC Technologies - Pricing Guide
+1. Basic Plan: $29/month. Includes core business management tools, 1 user.
+2. Pro Plan: $79/month. Includes all Basic features plus advanced analytics, up to 5 users.
+3. Enterprise Plan: Custom pricing. Contact sales for unlimited users and dedicated support.

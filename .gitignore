@@ -1,0 +1,12 @@
+# Virtual Environment
+myenv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# SQLite database (optional)
+# memory.db
