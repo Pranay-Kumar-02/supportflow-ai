@@ -1,5 +1,5 @@
 <div align="center">
-12345678
+
 # 🤖 SupportFlow AI
 
 ### Intelligent Customer Support Automation Powered by LangGraph & LangChain
