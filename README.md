@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 SupportFlow AIqwer
+# 🤖 SupportFlow AI
 
 ### Intelligent Customer Support Automation Powered by LangGraph & LangChain
 
